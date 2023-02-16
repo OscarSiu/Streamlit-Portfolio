@@ -1,0 +1,45 @@
+{"events": [{"start_date":{"year":"2018","month":"7"},
+            "end_date":{"year":"2018", "month":"8"},
+            "media":{"url":"https://www.infotalkcorp.com/wp-content/uploads/2020/11/EMSD_Logo-3.png",
+                    "caption": "Gas Ordinance Office", 
+                    "credit": "EMSD"
+                    }, 
+            "text":{"headline":"Summer Internship",
+            "text":"Conducted calculation on LPG Compounds with respective to the Code of Practice issued by EMSD"}},
+
+            
+            {"start_date":{"year":"2019","month":"9"},
+            "end_date":{"year":"2020", "month":"5"},
+            "media":{"url":"https://www.haeco.com/getattachment/419acb9c-c6ec-47c7-8fed-c308895de728/HAECO-Launches-New-Corporate-Identity.aspx",
+                    "credit": "HAECO"
+                    }, 
+            "text":{"headline":"Aircraft Engineering Licensed Trainee"}},
+
+            {"start_date":{"year":"2020","month":"6"},
+            "end_date":{"year":"2022", "month":"1"},
+            "media":{"url":"https://www.hkpc.org/themes/custom/hkpc/assets/img/hkpc-v4.jpg",
+                    "credit": "HKPC",
+                    "caption": "APAS"
+                    }, 
+            "text":{"headline":"Engineering Officer",
+            "text":"Worked on signalized Intersection Collision Avoidance Platform by V2I Application & Visual-Audio Cross-Modal AI Platform for Identifying Vehicle Noise"}
+            },     
+
+            {"start_date":{"year":"2022","month":"2"},
+            "end_date":{"year":"2022", "month":"8"},
+            "media":{"url":"https://www.itf.gov.hk/filemanager/en/content_81/logo-21_ras.png",
+                    "credit": "Raspect"
+                    }, 
+            "text":{"headline":"Mechatronic Specialist",
+            "text":"Developed Defection Dimension Algorithm with camera calibration and image processing. Reconstructed drone flight trajectory and completed post flight analysis"}
+            },
+            
+            {"start_date":{"year":"2022","month":"8"},
+            "media":{"url":"https://upload.wikimedia.org/wikipedia/commons/2/26/ASTRI_Logo_OP_RGB_Full_Colour.png",
+                    "credit": "ASTRI"
+                    }, 
+            "text":{"headline":"Engineer",
+            "text":"Upgrade roadside system software and assist in V2X Smart City hardware installation on vehicles"}
+            }
+             
+            ]}
