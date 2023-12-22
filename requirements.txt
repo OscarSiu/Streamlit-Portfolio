@@ -4,6 +4,6 @@ Pillow==9.1.0
 plotly==5.10.0
 requests==2.28.1
 streamlit
-streamlit-extras
-streamlit-timeline
+streamlit-extras==0.2.0
+streamlit-timeline==0.0.2
 
