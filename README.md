@@ -4,10 +4,6 @@ Created on 16 Feb 2023
 ## References
 [API reference](https://docs.streamlit.io/library/api-reference)
 
-[Awesome](https://awesome-streamlit.org/)
-
-[Components](https://components.streamlit.app/)
-
 [Extra library](https://extras.streamlit.app/Badges)
 
 
