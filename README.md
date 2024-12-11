@@ -4,7 +4,9 @@ Created on 16 Feb 2023
 ## References
 [API reference](https://docs.streamlit.io/library/api-reference)
 
-[Extra library](https://extras.streamlit.app/Badges)
+[Components](https://streamlit.io/components?)
+
+[Extra library](https://extras.streamlit.app/)
 
 
 ## Webtools
@@ -26,7 +28,6 @@ Created on 16 Feb 2023
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://siucheukyin-portfolio.streamlit.app/)
 
 # Credit
-[Links](https://github.com/streamlit/links)
 
 [Medium](https://medium.com/data-science-in-your-pocket/building-portfolio-using-streamlit-ac215b8e74da)
 
